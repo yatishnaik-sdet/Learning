@@ -1,1 +1,4 @@
 This is file 2 created from local repository
+Adding new line 1
+adding new line 2
+adding new line 3
